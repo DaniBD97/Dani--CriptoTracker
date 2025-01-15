@@ -7,7 +7,7 @@ const useSelectMonedas = (label, opciones) => {
 
     const SelectMonedas = () => (
 
-        <>
+        <section className='select-container'>
             <label htmlFor="">{label}</label>
             <select className='Select-Form'
 
@@ -29,7 +29,7 @@ const useSelectMonedas = (label, opciones) => {
                 ))}
             </select>
 
-        </>
+        </section>
 
 
     )

@@ -7,7 +7,7 @@ const Resultado = ({ resultado }) => {
         <div className='Contenedor-Detalle'>
             <img className='imagenDetalle' src={`https://cryptocompare.com/${IMAGEURL}`} alt="Imagen Cripto" />
 
-            <div>
+            <div className='detalle'>
 
                 <p className='Precio'>El Precio es de: <span>{PRICE}</span></p>
                 <p>El Precio Mas Alto: <span>{HIGHDAY}</span></p>

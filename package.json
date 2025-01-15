@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.com/DaniBD97/CotizadorCriptoMoneda-React-ApiCripto.git",
+  "homepage": "https://github.com/DaniBD97/CotizadorCriptoMoneda-React-ApiCripto.git",
   "name": "criptos-react",
   "private": true,
   "version": "0.0.0",
@@ -16,7 +16,8 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "victory": "^37.3.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
